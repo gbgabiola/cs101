@@ -4,7 +4,7 @@ Introduction to Computer Science for a zero-prior-experience audience. Play with
 
 CS101 is not a full, professional coding class. Instead, CS101 gets at the essential ideas of computers, their powers and limitations
 
-- [ ] Week 1
+- [x] [Week 1](week1.md)
 - [ ] Week 2
 - [ ] Week 3
 - [ ] Week 4
